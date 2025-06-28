@@ -17,7 +17,7 @@ EEG signals are converted into 2D scalogram images and used to train a deep lear
 ---
 
 ## 📂 Folder Structure
-
+ ```
 EEG-Gamer-Classification/
 │
 ├── scalogram_generator/ # MATLAB / Python code to convert EEG to images
@@ -31,7 +31,7 @@ EEG-Gamer-Classification/
 ├── README.md # Project description (this file)
 ├── requirements.txt # Dependencies
 └── train_classifier.py # Final Python script for training the model
-
+ ```
 
 ---
 
